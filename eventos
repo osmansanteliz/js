@@ -1,0 +1,24 @@
+Eventos relacionado con el mouse:
+onclick = click sobre un elemento
+ondblclick = doble click sobre un elemento
+onmousedown = se pulsa un boton del raton sobre un elemento
+onmousecenter = el puntero del raton entra en el area de un elemento
+onmouseleave = el puntero del raton sale del area de un elemento
+onmousemove = el puntero del raton se esta moviendo sobre el area de un elemento
+onmouseover = el puntero del raton se situa encima del area de un elemento
+onmouseout = el puntero del raton sale fuera del area del elemento o fuera de uno de sus hijos
+onmouseup = un boton del raton se libera estando sobre un elemento
+contextmenu = se pulsa el boton derecho del raton(antes de que aparezca el menu contextual)
+
+Relacionados con el teclado:
+onkeydown = el usuario tiene pulsada una tecla. (para elementos de formulario y body)
+onkeypress = el usuario pulsa una tecla (momento justo en qu ela pulsa) (formulario y body)
+onkeyup = el usuario libera una tecla que tenia pulsada ( formularios y body)
+
+Relacionados con formularios:
+onfocus = un elemento del formulario toma el foco
+onblur = un elemento del formulario pierde el foco
+onchange = un elemento del formulario cambia
+onselect = el usuario selecciona el texto de un elemento input o textarea
+onsubmit = se pulsa el boton de envio del formulario (antes del envio)
+onreset = se pulda el boton reset del formulario
